@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3111165109356131531
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3111165109356131530}
+  - component: {fileID: 3111165109356131529}
+  m_Layer: 0
+  m_Name: Game_controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &3111165109356131530
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3111165109356131531}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -10.75, y: 7.59, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3111165109356131529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3111165109356131531}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 210f270471884b749b4797c53dcae0fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _gameManager: {fileID: 0}
+  jogador:
+  - {fileID: 7570966848032993272, guid: 1410198b297701344a6455bd1d399690, type: 3}
+  - {fileID: 7570966848032993272, guid: c9e5c71d70ddb7a4db133f069e5a4b84, type: 3}
+  - {fileID: 7570966848032993272, guid: e418fa0cdd4885940a01f6f9524ee011, type: 3}
+  - {fileID: 7570966848032993272, guid: 4b6c3c9ce88ce8f4a850f6ed061d1bed, type: 3}
+  - {fileID: 7570966848032993272, guid: f5c2e562220e6804a9cb45a1701bb6cf, type: 3}
+  - {fileID: 7570966848032993272, guid: b46db6b1b1dd40742a31803e5a084239, type: 3}
+  - {fileID: 7570966848032993272, guid: 5805fbea35fc4f742837d4a404c0a1ad, type: 3}
+  posicaoSpawn: {fileID: 0}
+  index: 0

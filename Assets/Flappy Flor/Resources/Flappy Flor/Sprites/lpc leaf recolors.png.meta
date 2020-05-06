@@ -1,0 +1,1663 @@
+fileFormatVersion: 2
+guid: b16e95664d188d94bb9bd93a8129a03a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4574702069329937016
+    second: lpc leaf recolors_0
+  - first:
+      213: -8434130089319793612
+    second: lpc leaf recolors_1
+  - first:
+      213: 5356732608101293508
+    second: lpc leaf recolors_2
+  - first:
+      213: 8224847635050355890
+    second: lpc leaf recolors_3
+  - first:
+      213: -773745217650913132
+    second: lpc leaf recolors_4
+  - first:
+      213: -7389317624897098197
+    second: lpc leaf recolors_5
+  - first:
+      213: 1754369620728988964
+    second: lpc leaf recolors_6
+  - first:
+      213: -3315901635592612744
+    second: lpc leaf recolors_7
+  - first:
+      213: -7198465238700485619
+    second: lpc leaf recolors_8
+  - first:
+      213: -3863743744536325097
+    second: lpc leaf recolors_9
+  - first:
+      213: 5682507209625993171
+    second: lpc leaf recolors_10
+  - first:
+      213: 3164603215948200360
+    second: lpc leaf recolors_11
+  - first:
+      213: 5478256683583902359
+    second: lpc leaf recolors_12
+  - first:
+      213: -4674833181322465391
+    second: lpc leaf recolors_13
+  - first:
+      213: -2996162573684683631
+    second: lpc leaf recolors_14
+  - first:
+      213: -1002400435116687098
+    second: lpc leaf recolors_15
+  - first:
+      213: -2869396628733178151
+    second: lpc leaf recolors_16
+  - first:
+      213: -5192490031503652418
+    second: lpc leaf recolors_17
+  - first:
+      213: 4678769670171178370
+    second: lpc leaf recolors_18
+  - first:
+      213: -2556867591272465216
+    second: lpc leaf recolors_19
+  - first:
+      213: 6843173734815715684
+    second: lpc leaf recolors_20
+  - first:
+      213: 5667246819415518404
+    second: lpc leaf recolors_21
+  - first:
+      213: 4071672043119500608
+    second: lpc leaf recolors_22
+  - first:
+      213: 3505618515927972793
+    second: lpc leaf recolors_23
+  - first:
+      213: -9072896959253674197
+    second: lpc leaf recolors_24
+  - first:
+      213: -8400147698193368744
+    second: lpc leaf recolors_25
+  - first:
+      213: 3532005575156685472
+    second: lpc leaf recolors_26
+  - first:
+      213: 3426810284142559768
+    second: lpc leaf recolors_27
+  - first:
+      213: -1380182480704592467
+    second: lpc leaf recolors_28
+  - first:
+      213: 5174031007152029704
+    second: lpc leaf recolors_29
+  - first:
+      213: 8274639104052142007
+    second: lpc leaf recolors_30
+  - first:
+      213: -9039002749573511533
+    second: lpc leaf recolors_31
+  - first:
+      213: -1149678941621930283
+    second: lpc leaf recolors_32
+  - first:
+      213: 3682318299989228190
+    second: lpc leaf recolors_33
+  - first:
+      213: -5951907297860058221
+    second: lpc leaf recolors_34
+  - first:
+      213: 8750012858667064661
+    second: lpc leaf recolors_35
+  - first:
+      213: 2278927038888525193
+    second: lpc leaf recolors_36
+  - first:
+      213: -5992586417815537180
+    second: lpc leaf recolors_37
+  - first:
+      213: 6891848878581974461
+    second: lpc leaf recolors_38
+  - first:
+      213: -8952866695588824861
+    second: lpc leaf recolors_39
+  - first:
+      213: 4842315283463068524
+    second: lpc leaf recolors_40
+  - first:
+      213: -1246641800074952066
+    second: lpc leaf recolors_41
+  - first:
+      213: -7780300066203087874
+    second: lpc leaf recolors_42
+  - first:
+      213: 7548136503575469379
+    second: lpc leaf recolors_43
+  - first:
+      213: -9137893140829702385
+    second: lpc leaf recolors_44
+  - first:
+      213: -6514204104722197933
+    second: lpc leaf recolors_45
+  - first:
+      213: -4324204208717419040
+    second: lpc leaf recolors_46
+  - first:
+      213: 3243820198321089704
+    second: lpc leaf recolors_47
+  - first:
+      213: -2485208465506540934
+    second: lpc leaf recolors_48
+  - first:
+      213: -5418548820850487265
+    second: lpc leaf recolors_49
+  - first:
+      213: 5303573961372252550
+    second: lpc leaf recolors_50
+  - first:
+      213: -8690055175613887199
+    second: lpc leaf recolors_51
+  - first:
+      213: -1980087021120365193
+    second: lpc leaf recolors_52
+  - first:
+      213: 1896396429050841009
+    second: lpc leaf recolors_53
+  - first:
+      213: 5455058907590697880
+    second: lpc leaf recolors_54
+  - first:
+      213: 7722071653212381922
+    second: lpc leaf recolors_55
+  - first:
+      213: -3626731974185109346
+    second: lpc leaf recolors_56
+  - first:
+      213: -5013215898903829179
+    second: lpc leaf recolors_57
+  - first:
+      213: 1732893957180542632
+    second: lpc leaf recolors_58
+  - first:
+      213: 265652240514244622
+    second: lpc leaf recolors_59
+  - first:
+      213: 1738626334610676297
+    second: lpc leaf recolors_60
+  - first:
+      213: 4586185892372881752
+    second: lpc leaf recolors_61
+  - first:
+      213: -6095123028068163237
+    second: lpc leaf recolors_62
+  - first:
+      213: -8925132550759922905
+    second: lpc leaf recolors_63
+  - first:
+      213: 7146695821842341723
+    second: lpc leaf recolors_64
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lpc leaf recolors_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 148
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b4fa54e501f99458d22dd42c113f0c
+      internalID: 4574702069329937016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 144
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68fc39898fe684abff5082ed74ce09
+      internalID: -8434130089319793612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 144
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d31facb1b4d5145afe7310eca96672
+      internalID: 5356732608101293508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 150
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8461b4c849a64b64cad07d646135b69e
+      internalID: 8224847635050355890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fed3595b59628c42864e08c1278363d
+      internalID: -773745217650913132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41363647483028d4f98d53568459ffa1
+      internalID: -7389317624897098197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 142
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0bac25ab173594bb5050d1263ba2de
+      internalID: 1754369620728988964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 131
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e111ef23d319cd94da908cb13d739be5
+      internalID: -3315901635592612744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 130
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c6dcacef1e2b94ebb7649eca32069b
+      internalID: -7198465238700485619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a345fb7c491ffd40987a7091639dc34
+      internalID: -3863743744536325097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec43c6eb77145f9459071e2c4f380ca9
+      internalID: 5682507209625993171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 130
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24e45073e720cf44a543d3dc30d927a
+      internalID: 3164603215948200360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 132
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8206230baaddd4abaa4e10b43e56c2
+      internalID: 5478256683583902359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742439487f337bf418ce2ea9078f8d90
+      internalID: -4674833181322465391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cb085c81bfe5f49bb8bcbf895715ef
+      internalID: -2996162573684683631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250383ff36421b429b78c0e55d08b8c
+      internalID: -1002400435116687098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 118
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f8c11115a2aaa4b871e395915e82e4
+      internalID: -2869396628733178151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 110
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1516ca8d13c19ca44ace74523628bf04
+      internalID: -5192490031503652418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf3d00f28a32a742b4250d236261179
+      internalID: 4678769670171178370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 110
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d487c4da2e9f469443d06e0ffd701
+      internalID: -2556867591272465216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776a2d8ad42f1b8479d8d32b03120fbf
+      internalID: 6843173734815715684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 98
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7e0771a6cdfd45b41a64455ae9cda
+      internalID: 5667246819415518404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 101
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8653110d0d668564ca502d4c578fdf81
+      internalID: 4071672043119500608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf4ee9ed88b3724c81d7ca07c2dd0ea
+      internalID: 3505618515927972793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6394e11d3f9ec4593e84d86efdcbf8
+      internalID: -9072896959253674197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 100
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2210ae19d8bf2429452783c36ddb31
+      internalID: -8400147698193368744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccbcbc5ff0d22a429c34fcc36efd7e1
+      internalID: 3532005575156685472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 80
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1959744174a294aa144a0a885a4d83
+      internalID: 3426810284142559768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f56df9efeada4681e4d915a90b8a9
+      internalID: -1380182480704592467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1f05cb5ec5caf4990c8ed991ebc466
+      internalID: 5174031007152029704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7d5fda70c19a04daef698eb7279c49
+      internalID: 8274639104052142007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcfcea5c5f3d1e458d2dce8eb80bbd3
+      internalID: -9039002749573511533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 78
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e378bd44ba6894ea038c47c8ae2575
+      internalID: -1149678941621930283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da69c050de4055c498c7f056021b48a4
+      internalID: 3682318299989228190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa8956b6dae709468929d5d7381451e
+      internalID: -5951907297860058221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 69
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd335800ffb08c4baa3701ddb36502b
+      internalID: 8750012858667064661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 67
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a472089db9553943a89ef2ad53b3c87
+      internalID: 2278927038888525193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 66
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618409fb285f51c4bb5e838b72da20b8
+      internalID: -5992586417815537180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 68
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b39d50a601cfc94da07231da4070772
+      internalID: 6891848878581974461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf7ef87b46abf44096d694a643b3083
+      internalID: -8952866695588824861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c7e2a69fba2ed4994addfb9129dd9a
+      internalID: 4842315283463068524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ef7c11d921c154798dac8b7f2a0086
+      internalID: -1246641800074952066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 54
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596958041443e7544ad96fb7069c4f42
+      internalID: -7780300066203087874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_43
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 46
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d52520de43e0d4e9c462cb60d03327
+      internalID: 7548136503575469379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 34
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38805f40f758dcb43a62a49553de99a6
+      internalID: -9137893140829702385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 46
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c02c9c6e788e844b4f8c350d2fd3f3
+      internalID: -6514204104722197933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83940f23d3020af41a70c3953859d84d
+      internalID: -4324204208717419040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 34
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53abd80ce78d4ff4ba6168d1711da232
+      internalID: 3243820198321089704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_48
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 37
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aca206ac2fd3d498d585bd80f1afef
+      internalID: -2485208465506540934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ab16b7e1beb544493cf6c8241e0da2
+      internalID: -5418548820850487265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_50
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 34
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11423f4d7642044da9493c5cf610a17
+      internalID: 5303573961372252550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 36
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e546fa23831304699b381c1b15548e
+      internalID: -8690055175613887199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 20
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd91e07cee84f47ab87b2184f17c21
+      internalID: -1980087021120365193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea57824cc54a24b93f56cda25cacb7
+      internalID: 1896396429050841009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697560e9a71075c44b80c7e73b8e0f2d
+      internalID: 5455058907590697880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 22
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d976a1b75fcece4896c7cf63b629337
+      internalID: 7722071653212381922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 14
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc99f70f94b05ef49b70e05794e0ab50
+      internalID: -3626731974185109346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24400af02a11ee4094c66c00beafe01
+      internalID: -5013215898903829179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8c46fc284a92f4095041e3c5b36745
+      internalID: 1732893957180542632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_59
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34060b677c17e5540b91b9128939f839
+      internalID: 265652240514244622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_60
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf51ed9dd8bb61489f2cbff2e934f6f
+      internalID: 1738626334610676297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_61
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d9bba1aa7518c4ea866f98461da413
+      internalID: 4586185892372881752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_62
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189e86f4b534f994593cd330f48a0fdd
+      internalID: -6095123028068163237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_63
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdfb2e9edf3a1345a48465cdfdd2b3c
+      internalID: -8925132550759922905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lpc leaf recolors_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a635a7a6ade6d945884b811d48fc37f
+      internalID: 7146695821842341723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
